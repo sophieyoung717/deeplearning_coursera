@@ -8,9 +8,9 @@
 
 - Improving Deep Neural Networks
   
--- GradientChecking
--- Initialization
--- Regularization
+  -  GradientChecking
+  - Initialization
+  - Regularization
 
 - Optimization Methods
 
