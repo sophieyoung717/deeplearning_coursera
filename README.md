@@ -1,4 +1,4 @@
-# deeplearning projects
+# deep learning series at Coursera
 
 - Logistic Regression with a Neural Network
 
@@ -8,10 +8,12 @@
 
 - Improving Deep Neural Networks
   
-  -  GradientChecking
+  - GradientChecking
   - Initialization
   - Regularization
 
 - Optimization Methods
 
 - Tensorflow Tutorials
+
+- Certificates
